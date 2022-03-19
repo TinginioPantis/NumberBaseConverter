@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-classes-java.main" target="11" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-classes-kotlin.main" target="11" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-reports-tests.main" target="11" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-test-results.main" target="11" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-tmp.main" target="11" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-out.main" target="11" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Average.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Gold_mining.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Multiplication.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Round_and_power.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Rounding_with_a_given_precision.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Theory.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigInteger-Division.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigInteger-Exbibytes.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigInteger-Max.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigInteger-Percentage.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigInteger-Simple_expression.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigInteger-Theory.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Errors_in_programs-Fix_compile-time_errors.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Errors_in_programs-Fix_the_program.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Errors_in_programs-It_can't_be_zero_.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Errors_in_programs-Theory.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Errors_in_programs-What's_wrong_.main" target="11" />
+      <module name="Number_Base_Converter.Topics-For_loop_and_lists-Circular_shift.main" target="11" />
+      <module name="Number_Base_Converter.Topics-For_loop_and_lists-Count_occurrences.main" target="11" />
+      <module name="Number_Base_Converter.Topics-For_loop_and_lists-For_loops_task.main" target="11" />
+      <module name="Number_Base_Converter.Topics-For_loop_and_lists-Individual_taxes.main" target="11" />
+      <module name="Number_Base_Converter.Topics-For_loop_and_lists-Right_Rotation.main" target="11" />
+      <module name="Number_Base_Converter.Topics-For_loop_and_lists-Theory.main" target="11" />
+      <module name="Number_Base_Converter.Topics-For_loop_and_lists-Triples.main" target="11" />
+      <module name="Number_Base_Converter.Topics-For_loop_and_ranges-Check_the_order.main" target="11" />
+      <module name="Number_Base_Converter.Topics-For_loop_and_ranges-Count_the_numbers.main" target="11" />
+      <module name="Number_Base_Converter.Topics-For_loop_and_ranges-Fizz_Buzz.main" target="11" />
+      <module name="Number_Base_Converter.Topics-For_loop_and_ranges-The_longest_sequence.main" target="11" />
+      <module name="Number_Base_Converter.Topics-For_loop_and_ranges-The_maximum_pairwise_product.main" target="11" />
+      <module name="Number_Base_Converter.Topics-For_loop_and_ranges-The_product_of_numbers_from_a_to_b.main" target="11" />
+      <module name="Number_Base_Converter.Topics-For_loop_and_ranges-The_roots_of_equation.main" target="11" />
+      <module name="Number_Base_Converter.Topics-For_loop_and_ranges-The_sum_of_integers_from_a_to_b.main" target="11" />
+      <module name="Number_Base_Converter.Topics-For_loop_and_ranges-The_sum_of_N_numbers.main" target="11" />
+      <module name="Number_Base_Converter.Topics-For_loop_and_ranges-Theory.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Multi-dimensional_list-Accordance.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Multi-dimensional_list-Corners.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Multi-dimensional_list-Cube_of_zeros.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Multi-dimensional_list-Kotlin_lists.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Multi-dimensional_list-Shapeshifter.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Multi-dimensional_list-Theory.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Processing_strings-Compression_algorithm.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Processing_strings-Convert_a_date.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Processing_strings-Double_characters.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Processing_strings-Number_of_occurrences.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Processing_strings-Palindrome.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Processing_strings-Parse_url.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Processing_strings-The_percentage_of_G_and_C_characters.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Processing_strings-Theory.main" target="11" />
+      <module name="Number_Base_Converter.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
